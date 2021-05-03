@@ -23,7 +23,7 @@
 𝘽𝙀𝙎𝙏 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 𝙒𝙄𝙏𝙃 350+ 𝙋𝙇𝙐𝙂𝙄𝙉𝙎 🔥</h3>
 </div>
 <h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
-The best UserBot With 350 + Plugins</h2>
+
 <h2 style="text-align: left;">
 𝙏𝙃𝙀 𝙈𝙊𝙎𝙏 𝙋𝙊𝙒𝙀𝙍𝙁𝙐𝙇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏</h2>
 <h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
