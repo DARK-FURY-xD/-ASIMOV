@@ -39,7 +39,7 @@ async def _(event):
     for i in animation_ttl:
 
         await asyncio.sleep(animation_interval)
-# Made for DARK COBRA
+# Made for ASIMOV
         await event.edit(animation_chars[i % 11])
 
     await asyncio.sleep(2)
@@ -67,7 +67,7 @@ async def _(event):
             
 
     for i in animation_ttl:
-# Made for DARK COBRA        
+# Made for ASIMOV       
         await asyncio.sleep(animation_interval)
         await event.edit(animation_chars[i % 14])
     
@@ -115,4 +115,4 @@ async def _(event):
     if h==5:
         await event.edit("`pdf created click link below to download data\n\n😂 Don't worry only i can open this 😎😎.. If u don't Believe try to download` 🙂\n\nhttps://drive.google.com/file/d/1hPUfr27UtU0XjtC20lXjY9G3D9jR5imj/view?usp=sharing")
 
- # Made for DARK COBRA       
+ # Made for ASIMOV
