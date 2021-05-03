@@ -1,7 +1,9 @@
+#FOR ASIMOV USERBOT.....
 # Thanks to Sipak bro and Aryan.. 
 # animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
-# Kang with credits else gay...
+# Made by @hellboi_atul and @ITZ_DARK_FURY ....and thanks to @Crackexy for the logos...
+#Edited by @ITZ_DARK_FURY
+# KANG WITH CREDITS ELSE GAY.....
 import asyncio
 import os
 import requests
@@ -15,22 +17,23 @@ from userbot.utils import admin_cmd, sudo_cmd
 from userbot import ALIVE_NAME, Lastupdate
 from . import dcdef
 from telethon.tl.types import ChannelParticipantsAdmins
-# 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "DARK COBRA"
+# 🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄🙄
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ASIMOV"
 
 # Thanks to Sipak bro and Aryan.. 
 # animation Idea by @ItzSipak && @Hell boy_pikachu
-# Made by @hellboi_atul ....and thanks to @Crackexy for the logos...
+# Made by @hellboi_atul and @ITZ_DARK_FURY ....and thanks to @Crackexy for the logos...
+#Edited by @ITZ_DARK_FURY
 # Kang with credits else gay...
-# alive.py for DC(DARK COBRA)
+# alive.py for ASIMOV USERBOT
 global ghanti
 ghanti = borg.uid
 edit_time = 5
 """ =======================CONSTANTS====================== """
-file1 = "https://telegra.ph/file/6aa39732748ed7c319943.jpg"
-file2 = "https://telegra.ph/file/a6d72504bc09e71484a54.jpg"
-file3 = "https://telegra.ph/file/3cdbede1d5d85aa2d50fc.jpg"
-file4 = "https://telegra.ph/file/3dae01973943e8b28c931.jpg"
+file1 = "https://telegra.ph/file/56689333be8d0666ad9ea.jpg"
+#file2 = "" #nahi he mere pas 😢
+#file3 = "" # i don't have 
+#file4 = "" # anyone please make a logo for ASIMOV😅
 """ =======================CONSTANTS====================== """
 
 
@@ -43,13 +46,13 @@ async def hmm(yes):
     ghanti = borg.uid
     await yes.delete()
     uptime = await dcdef.get_readable_time((time.time() - Lastupdate))
-    pm_caption = "** 𝙳𝙰𝚁𝙺 𝙲𝙾𝙱𝚁𝙰 𝙸𝚂 𝙾𝙽𝙻𝙸𝙽𝙴**\n\n"
-    pm_caption += "**Yes Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
+    pm_caption = "** 𝘼𝙎𝙄𝙈𝙊𝙑 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀 **\n\n"
+    pm_caption += "**yoosss Master, Am Alive And Systems Are Working Perfectly As It Should Be...**\n\n"
     pm_caption += "✘ About My System ✘\n\n"
     pm_caption += f"➾ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** ☞ {version.__version__}\n"
-    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/Dark_cobra_support)\n"
-    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝚃𝙴𝙰𝙼 𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA)\n"
-    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [𝙳𝙰𝚁𝙺-𝙲𝙾𝙱𝚁𝙰](https://github.com/DARK-COBRA/DARKCOBRA)\n\n"
+    pm_caption += "➾ **ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ** ☞ [ᴊᴏɪɴ](https://t.me/A_S_I_M_O_V)\n"
+    pm_caption += "➾ **ʟɪᴄᴇɴꜱᴇ**  ☞ [𝔸𝕊𝕀𝕄𝕆𝕍](https://github.com/DARK-FURY-xD/-ASIMOV)\n"
+    pm_caption += "➾ **ᴄᴏᴘʏʀɪɢʜᴛ ʙʏ** ☞ [𝔸𝕊𝕀𝕄𝕆𝕍](https://github.com/DARK-FURY-xD/-ASIMOV)\n\n"
     pm_caption += f"➾ **ᴜᴘᴛɪᴍᴇ** ☞ {uptime}\n\n"
     pm_caption += f"➾ **ᴍʏ ᴍᴀsᴛᴇʀ** ☞ [{DEFAULTUSER}](tg://user?id={ghanti})\n"
     on = await borg.send_file(yes.chat_id, file=file1,caption=pm_caption)
