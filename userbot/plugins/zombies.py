@@ -57,7 +57,7 @@ async def rm_deletedacc(show):
 
     con = show.pattern_match.group(1).lower()
     del_u = 0
-    del_status = "`No deleted accounts found, Group is clean`"
+    del_status = "`No deleted accounts found, Group is clean 😁...`"
 
     if con != "clean":
         await show.edit("`Searching for ghost/deleted/zombie accounts...`")
@@ -92,7 +92,7 @@ async def rm_deletedacc(show):
                 await show.client(
                     EditBannedRequest(show.chat_id, user.id, BANNED_RIGHTS))
             except ChatAdminRequiredError:
-                await show.edit("`I don't have ban rights in this group`")
+                await show.edit("`I don't have ban rights in this chat😶...`")
                 return
             except UserAdminInvalidError:
                 del_u -= 1
