@@ -126,10 +126,10 @@ async def on_afk(event):
         #           afk_since = f"`{int(seconds)}s` **ago**"
         msg = None
         message_to_reply = (
-            f"__ Master Been #AFK since__ `{total_afk_time}`"
+            f"__ My Pero master #AFK since__ `{total_afk_time}`"
             + f"\n\n_\n**REASON**: {reason}"
             if reason
-            else f"**Hey!!**\n`Master is  #AFK`\n\n__Since__>>> {total_afk_time}"
+            else f"**Helloo🙄🙄!!**\n`Master is  #AFK`\n\n__Since__>>> {total_afk_time}"
         )
         msg = await event.reply(message_to_reply)
         await asyncio.sleep(2)
@@ -164,7 +164,7 @@ async def _(event):
         USER_AFK = f"yes: {reason}"  # pylint:disable=E0602
         if reason:
             await borg.send_message(
-                event.chat_id, f"**I shall be Going afk!**\n __Reason >>> {reason}__"
+                event.chat_id, f"**MAI OFFLINE JAA RAHI YA JAA RAHI HU🥺😢!**\n __Reason >>> {reason}__"
             )
         else:
             await borg.send_message(event.chat_id, f"**I am Going afk!**")
