@@ -39,16 +39,7 @@
 <h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
 <a aria-hidden="true" class="anchor" href="https://github.com/hellboi-atul/hellboi-atul/blob/master/README.md#credits--fridayuserbot" id="user-content-credits--fridayuserbot" style="background-color: initial; box-sizing: border-box; color: #0366d6; float: left; line-height: 1; margin-left: -20px; padding-right: 4px; text-decoration-line: none;"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z" fill-rule="evenodd"></path></svg></a><a href="https://github.com/jarvis210904/J.A.R.V.I.S-Userbot#credits--fridayuserbot" id="user-content-credits--fridayuserbot" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"></a>Credits :&nbsp;</h3>
 <h3 style="text-align: left;">
-<html>
- <head></head> 
- <body> 
-  <h1> DARK COBRA❤ </h1> 
-  <div>
-    This is 𓆩𖤍𓆪ꪾ  𑀥𐌀𐍂𐌺 𐍆𐌵𐍂𐍅  , 
-   <br> https://t.me/ITZ_DARK_FURY. :) 
-  </div> 
- </body>
-</html>
+  <h1> 𝘿𝘼𝙍𝙆 𝘾𝙊𝘽𝙍𝘼❤ </h1> 
 <a href="http://jarvisuserbot.com/">JARVISUserBot</a></h3>
 <h3 style="box-sizing: border-box; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 24px;">
 <a href="http://github.com/starkgang/FridayUserbot">FridayUserBot</a></h3>
