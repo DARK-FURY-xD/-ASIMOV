@@ -1,7 +1,7 @@
 {
-  "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
-  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
+  "name": "𝔸𝕊𝕀𝕄𝕆𝕍 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
+  "description": "The best and most awaited userbot made by @ITZ_DARK_FURY and modified by DARK COBRA userbot's owner(@hellboi_atul) Made with ❤ For Support Join @ASIMOV_SUPPORT ",
+  "logo": "https://telegra.ph/file/56689333be8d0666ad9ea.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/DARK-FURY-xD/-ASIMOV",
+  "website": "https://github.com/DARK-FURY-xD/-ASIMOV",
+  "success_url": "https://t.me/ASIMOV_SUPPORT",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,7 +30,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @ITZ_DARK_FURY.",
       "value": "",
       "required": true
     },
@@ -46,7 +46,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
+      "value": "https://telegra.ph/file/56689333be8d0666ad9ea.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -56,7 +56,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
+      "value": "https://telegra.ph/file/56689333be8d0666ad9ea.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
@@ -129,7 +129,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: hellboi-atul/hellboi-atul, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: DARK-FURY-xD/DARK-FURY-xD, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -189,7 +189,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
+      "value": "🔥",
       "required": true
     },
     "SUDO_USERS": {
