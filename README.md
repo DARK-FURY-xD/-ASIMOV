@@ -20,7 +20,7 @@
 <a href="https://www.python.org/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="forthebadge made-with-python" src="https://camo.githubusercontent.com/5392ad6fb7875a2520001270f08309896b6cb25d/687474703a2f2f466f7254686542616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 <div style="box-sizing: border-box;">
 <h3 style="text-align: left;">
-Best User Bot To Manage Your Telegram Account</h3>
+𝘽𝙀𝙎𝙏 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 𝙒𝙄𝙏𝙃 350+ 𝙋𝙇𝙐𝙂𝙄𝙉𝙎 🔥</h3>
 </div>
 <h2 style="border-bottom: 1px solid rgb(234, 236, 239); box-sizing: border-box; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;">
 The best UserBot With 350 + Plugins</h2>
