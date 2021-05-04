@@ -47,7 +47,7 @@
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
       "value": "https://telegra.ph/file/56689333be8d0666ad9ea.jpg",
-      "required": true
+      "required": false
     },
     "DEFAULT_BIO": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
