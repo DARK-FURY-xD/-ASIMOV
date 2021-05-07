@@ -41,7 +41,7 @@ if Var.TG_BOT_USER_NAME_BF_HER is not None and tgbot is not None:
                 dc = paginate_help(current_page_number, CMD_LIST, "helpme")
                 await event.edit("`>>>\n\nReopened The Main Menu of \n©DARKCOBRA` ", buttons=dc)
             else:
-                reply_pop_up_alert = "Please get your own Userbot,for more info visit @DARK_COBRA_SUPPORT!"
+                reply_pop_up_alert = "Please get your own Userbot,for more info visit @ASIMOV_SUPPORT!"
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
        
   #       🇮 🇹 🇳 🇦    🇰 🇾 🇺   🇸 🇵 🇾     🇰 🇷    🇷 🇭 🇪     🇭 🇴      🇸 🇭 🇦 🇦 🇩 🇮    🇰 🇷 🇳 🇮    🇭    🇰 🇾 🇦   🇧 🇸 🇩 🇰 
